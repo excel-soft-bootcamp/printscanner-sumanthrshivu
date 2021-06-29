@@ -7,7 +7,7 @@ namespace PrintScannerProgram
     public class SacnManager
     {
 
-        PrintScanner _printer = new PrintScanner();
+        PrintScanner _scanner = new PrintScanner();
 
         public void ScanDocument(PrintScanner scanner)
         {
